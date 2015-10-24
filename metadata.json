@@ -1,0 +1,22 @@
+{
+  "name": "halyard-spotify",
+  "version": "0.1.0",
+  "author": "Les Aker",
+  "summary": "Install Spotify with Boxen",
+  "license": "MIT",
+  "source": "https://github.com/halyard/puppet-spotify",
+  "project_page": "https://github.com/halyard/puppet-spotify",
+  "issues_url": "https://github.com/halyard/puppet-spotify/issues",
+  "dependencies": [
+
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "Darwin",
+      "operatingsystemmajrelease": [
+        "14",
+        "15"
+      ]
+    }
+  ]
+}
