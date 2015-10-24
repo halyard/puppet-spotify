@@ -4,5 +4,7 @@
 #
 class spotify (
 ) {
-  package { 'spotify': }
+  package { 'spotify':
+    provider => 'brewcask'
+  }
 }
